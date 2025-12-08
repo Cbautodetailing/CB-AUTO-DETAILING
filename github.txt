@@ -1,0 +1,39 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CB Auto Detailing | Mobile Car Detailing | Affordable Car Wash</title>
+
+    <!-- SEO Keywords -->
+    <meta name="keywords" content="mobile detailing, car wash, auto detailing, car cleaning, detailing near me, mobile car wash, affordable detailing, Tennessee detailing, CB Auto Detailing, CB Detailing 931">
+
+    <!-- SEO Description -->
+    <meta name="description" content="CB Auto Detailing offers affordable and professional mobile car detailing. Exterior and interior detailing for sedans, SUVs, and trucks. Quality results, great pricing.">
+
+    <!-- Social Media Share (OG Tags) -->
+    <meta property="og:title" content="CB Auto Detailing - Mobile Car Detailing Service">
+    <meta property="og:description" content="Professional mobile detailing with unbeatable pricing. Serving Tennessee.">
+    <meta property="og:image" content="images/photo1.jpg">
+    <meta property="og:type" content="website">
+
+    <!-- Local Business Schema (helps Google rank your business) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "CB Auto Detailing",
+        "image": "images/photo1.jpg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "TN",
+            "addressCountry": "US"
+        },
+        "telephone": "931-278-2129",
+        "url": "YOUR_WEBSITE_URL_HERE",
+        "priceRange": "$",
+        "description": "Professional mobile auto detailing with unbeatable pricing. Serving Tennessee.",
+        "servesCuisine": "",
+        "openingHours": "Mo-Su 08:00-20:00"
+    }
+    </script>
+</head>
